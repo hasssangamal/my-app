@@ -61,7 +61,7 @@ onClick={() => {
     <CardMedia
 
     component="img"
-    width="22"
+    width="10"
     height="60"
     
     image={item.imageLink[0]}
