@@ -1,0 +1,14 @@
+{
+  "mydata": [
+    {
+      "kind": "food",
+      "value": 20,
+      "id": 1
+    },
+    {
+      "kind": "manga",
+      "value": 30,
+      "id": 2
+    }
+  ]
+}
