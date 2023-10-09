@@ -49,6 +49,7 @@ if(isloading){
 
   return (
     <>
+    <h2>all products</h2>
     <Box sx={{display:"flex",flexDirection:{xs:"column",lg:"row"}}}>
 {productsx.data?.map((item ,index)=>(
       <Card key={item.id} sx={{ maxWidth: 277,marginLeft:"10px",marginRight:"10px",mb:"20px"}}>
