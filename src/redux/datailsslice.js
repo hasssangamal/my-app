@@ -10,6 +10,7 @@ const initialState = {
     return axios.get(`https://store-40be.onrender.com/products/${id}`)
   }
 )
+
 export const Cartsslice = createSlice({
   name: 'productde',
   initialState,
