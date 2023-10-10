@@ -15,8 +15,12 @@ code {
 color: red;
 }
 
-.cart .css-o69gx8-MuiCardMedia-root{
+/* .cart .css-o69gx8-MuiCardMedia-root{
   width: 10% !important;
+  height: 15% !important;
+} */
+.imgttt{
+  width: 8% !important;
   height: 15% !important;
 }
 html{

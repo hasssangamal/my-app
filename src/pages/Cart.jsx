@@ -58,10 +58,10 @@ onClick={() => {
       <Remove />
   </IconButton>
   <Typography variant="body1" >{item.productName}</Typography>
-    <CardMedia
+    <CardMedia className='imgttt'
 
     component="img"
-    width="10"
+  
     height="60"
     
     image={item.imageLink[0]}
