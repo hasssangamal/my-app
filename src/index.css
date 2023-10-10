@@ -22,6 +22,7 @@ color: red;
 .imgttt{
   width: 8% !important;
   height: 15% !important;
+  margin-left: 6px !important;
 }
 html{
   overflow-y: scroll !important;

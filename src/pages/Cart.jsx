@@ -57,7 +57,7 @@ onClick={() => {
   }}>
       <Remove />
   </IconButton>
-  <Typography variant="body1" >{item.productName}</Typography>
+  <Typography sx={{fontSize:{xs:"11px",md:"16px"}}} variant="body1" >{item.productName}</Typography>
     <CardMedia className='imgttt'
 
     component="img"
